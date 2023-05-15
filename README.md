@@ -2,7 +2,7 @@
 Simple 2d physics engine I wrote in C++ to start learning that language. Simulates physical interactions between particles (blobs).
 
 # Capabilities ✅
-* Simulation of the movement of blobs using Verlet integration
+* Simulation of movement of blobs using Verlet integration
 * Simulation of collisions between blobs
 * Simulation of rigid connections (sticks) between blobs
 * Simulation of force attraction between blobs
