@@ -27,5 +27,8 @@ Simple 2d physics engine I wrote in C++ to start learning that language. Simulat
 * Use this command to compile: g++ -c mainV02.cpp libraries/blob.cpp libraries/helperFunc.cpp libraries/saveload.cpp -I"YOUR-PATH-TO-SFML\SFML-2.5.1\include"
 * The SFML libraries audio-2 , audio-d-2 , graphics-2 , graphics-d-2 , network-2 , network-d-2 , system-2 , system-d-2 , window-2 , window-d-2 must be included in the folder where mainV02.cpp is stored, otherwise the executable won't launch; althrough that may be an issue with my particular configuration.
 
+# Demo 🎬
+https://youtu.be/GSGCWc7b6p0
+
 
 
